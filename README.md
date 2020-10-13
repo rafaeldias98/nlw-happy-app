@@ -20,8 +20,9 @@ $ yarn start
 
 If you find any problem or have a suggestion, please [open an issue](https://github.com/rafaeldias98/nlw-happy-app/issues/new).
 
-## :computer: Author
+## :computer: Authors
 * **Rafael Dias** :snowman: - *Software Engineer*
+* **[Rocketseat](https://rocketseat.com.br/)**
 
 ## :pencil: License
 ![](https://badgen.net/badge/license/MIT/black)
