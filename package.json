@@ -1,7 +1,7 @@
 {
-  "name": "nlw-happy-app",
+  "name": "nlw-happy-web",
   "version": "0.1.0",
-  "description": "A TypeScript RPG CLI Game",
+  "description": "NLW Happy WEB",
   "main": "src/index.tsx",
   "keywords": [
     "TypeScript",
@@ -20,6 +20,7 @@
     "@types/node": "^12.0.0",
     "@types/react": "^16.9.0",
     "@types/react-dom": "^16.9.0",
+    "axios": "^0.20.0",
     "leaflet": "^1.7.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
