@@ -1,4 +1,4 @@
-# Next Level Week WEB APP - Happy (WIP)
+# Next Level Week WEB APP - Happy
 An event by [Rocketseat](https://rocketseat.com.br/) called [Next Level Week](https://nextlevelweek.com/) that aims to build a project that contains an API, a web app and a mobile app in one week.
 
 ## :ballot_box_with_check: Requirements
